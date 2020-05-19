@@ -46,6 +46,21 @@ Possible existing potencial datasets can be:
 
 * OpenMIIR - Music imagery information retrieval
   https://github.com/sstober/openmiir
+  Existing Publications:
+  * Sebastian Stober. Towards Studying Music Cognition with Information Retrieval Techniques: Lessons Learned from the OpenMIIR Initiative. In: Frontiers in Psychology Volume 8, 2017.
+  doi: 10.3389/fpsyg.2017.01255
+
+  * Sebastian Stober. Learning Discriminative Features from Electroencephalography Recordings by Encoding Similarity Constraints. In: Proceedings of 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP’17), Pages 6175-6179, 2017.
+  doi: 10.1109/ICASSP.2017.7953343
+
+  * Sebastian Stober; Thomas Prätzlich & Meinard Müller. Brain Beats: Tempo Extraction from EEG Data. In: 17th International Society for Music Information Retrieval Conference (ISMIR’16), 2016.
+  available from: https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf
+
+  * Sebastian Stober; Avital Sternin; Adrian M. Owen & Jessica A. Grahn. Deep Feature Learning for EEG Recordings. In: arXiv preprint arXiv:1511.04306 2015.
+  available from: http://arxiv.org/abs/1511.04306
+
+  * Avital Sternin; Sebastian Stober; Jessica A. Grahn & Adrian M. Owen. Tempo Estimation from the EEG Signal during Perception and Imagination of Music. In: 1st International Workshop on Brain-Computer Music Interfacing / 11th International Symposium on Computer Music Multidisciplinary Research (BCMI/CMMR’15), 2015.
+  available from: http://bib.sebastianstober.de/bcmi2015.pdf
 
 * A dataset recorded during development of an affective brain-computer music interface:
 
