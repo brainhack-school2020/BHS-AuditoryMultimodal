@@ -1,4 +1,4 @@
-# Combine EEG/MRI/Behavioral data-sets to learn more about Music/Auditory system.
+# Combine EEG/MRI/Behavioral data-sets to learn more about Music/Auditory system
 
 ![BrainHack School](bhs2020.png)
 
@@ -28,24 +28,24 @@ Possible existing potencial datasets can be:
 
 * Forrest Gump: (Maybe the most promissing example)
 
-  https://openneuro.org/datasets/ds000113/versions/1.3.0
+  <https://openneuro.org/datasets/ds000113/versions/1.3.0>
 
 * A dataset recording joint EEG-fMRI during affective music listening (Could be very noisy EEG but also promising).
 
-  https://openneuro.org/datasets/ds002725/versions/1.0.0 
+  <https://openneuro.org/datasets/ds002725/versions/1.0.0> 
 
   * Article https://www.nature.com/articles/s41598-019-45105-2.pdf  
 
 * Decoding Musical Training from Dynamic Processing of Musical Features in the Brain (Interesting if we can find the data).
 
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768727/
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768727/>
 
 * Functional Connectivity of Music-Induced Analgesia in Fibromyalgia 
 
-  https://openneuro.org/datasets/ds001928/versions/1.1.0
+  <https://openneuro.org/datasets/ds001928/versions/1.1.0>
 
 * OpenMIIR - Music imagery information retrieval
-  https://github.com/sstober/openmiir
+  <https://github.com/sstober/openmiir>
   Existing Publications:
   * Sebastian Stober. Towards Studying Music Cognition with Information Retrieval Techniques: Lessons Learned from the OpenMIIR Initiative. In: Frontiers in Psychology Volume 8, 2017.
   doi: 10.3389/fpsyg.2017.01255
@@ -54,87 +54,87 @@ Possible existing potencial datasets can be:
   doi: 10.1109/ICASSP.2017.7953343
 
   * Sebastian Stober; Thomas Prätzlich & Meinard Müller. Brain Beats: Tempo Extraction from EEG Data. In: 17th International Society for Music Information Retrieval Conference (ISMIR’16), 2016.
-  available from: https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf
+  available from: <https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/07/022_Paper.pdf>
 
   * Sebastian Stober; Avital Sternin; Adrian M. Owen & Jessica A. Grahn. Deep Feature Learning for EEG Recordings. In: arXiv preprint arXiv:1511.04306 2015.
-  available from: http://arxiv.org/abs/1511.04306
+  available from: <http://arxiv.org/abs/1511.04306>
 
   * Avital Sternin; Sebastian Stober; Jessica A. Grahn & Adrian M. Owen. Tempo Estimation from the EEG Signal during Perception and Imagination of Music. In: 1st International Workshop on Brain-Computer Music Interfacing / 11th International Symposium on Computer Music Multidisciplinary Research (BCMI/CMMR’15), 2015.
-  available from: http://bib.sebastianstober.de/bcmi2015.pdf
+  available from: <http://bib.sebastianstober.de/bcmi2015.pdf>
 
 * Dataset: rsfMRI before and after one session EEG NF vs Sham NF
 
-  https://openneuro.org/datasets/ds001408/versions/1.0.3
+  <https://openneuro.org/datasets/ds001408/versions/1.0.3>
 
 * Data relating "Alpha/beta power decreases track the fidelity of stimulus-specific information"
 
-  https://openneuro.org/datasets/ds002000/versions/1.0.0
+  <https://openneuro.org/datasets/ds002000/versions/1.0.0>
 
 * Real-time EEG feedback on alpha power lateralization leads to behavioral improvements in a covert attention task
 
-  https://openneuro.org/datasets/ds002034/versions/1.0.1
+  <https://openneuro.org/datasets/ds002034/versions/1.0.1>
 
 * EEG meditation study
 
-  https://openneuro.org/datasets/ds001787/versions/1.0.2
+  <https://openneuro.org/datasets/ds001787/versions/1.0.2>
 
 * EEG study of the attentional blink; before, during, and after transcranial Direct Current Stimulation (tDCS)
 
-  https://openneuro.org/datasets/ds001810/versions/1.1.0
+  <https://openneuro.org/datasets/ds001810/versions/1.1.0>
 
 * The neural basis of spoken word perception in older adults
 
-  https://openneuro.org/datasets/ds002382/versions/1.0.0
+  <https://openneuro.org/datasets/ds002382/versions/1.0.0>
 
 * Audiocue walking study
 
-  https://openneuro.org/datasets/ds001971/versions/1.1.1
+  <https://openneuro.org/datasets/ds001971/versions/1.1.1>
 
 * A dataset recorded during development of an affective brain-computer music interface:
 
-  * https://openneuro.org/datasets/ds002724/versions/1.0.1
+  * <https://openneuro.org/datasets/ds002724/versions/1.0.1>
 
-  * https://openneuro.org/datasets/ds002722/versions/1.0.1
+  * <https://openneuro.org/datasets/ds002722/versions/1.0.1>
 
-  * https://openneuro.org/datasets/ds001131/versions/1.0.0
+  * <https://openneuro.org/datasets/ds001131/versions/1.0.0>
 
-  * https://openneuro.org/datasets/ds002723/versions/1.1.0
+  * <https://openneuro.org/datasets/ds002723/versions/1.1.0>
+
 * An EEG dataset recorded during affective music listening
 
   https://openneuro.org/datasets/ds002721/versions/1.0.1
 
-* Sherlock_Merlin 
+* Sherlock_Merlin
 
-  https://openneuro.org/datasets/ds001110/versions/00003
+  <https://openneuro.org/datasets/ds001110/versions/00003>
 
 * Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression
 
-  https://openneuro.org/datasets/ds000171/versions/00001
+  <https://openneuro.org/datasets/ds000171/versions/00001>
 
 * Milky-Vodka
 
-  https://openneuro.org/datasets/ds001131/versions/1.0.0
+  <https://openneuro.org/datasets/ds001131/versions/1.0.0>
 
-* Audiovisual Learning MEG Dataset 
+* Audiovisual Learning MEG Dataset
 
-  https://openneuro.org/datasets/ds002598/versions/1.0.0
+  <https://openneuro.org/datasets/ds002598/versions/1.0.0>
 
 * Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression 
 
-  https://openneuro.org/datasets/ds000171/versions/00001
+  <https://openneuro.org/datasets/ds000171/versions/00001>
 
 * Auditory and Visual Rhythm Omission EEG
 
-  https://openneuro.org/datasets/ds002218/versions/2.0.0
+  <https://openneuro.org/datasets/ds002218/versions/2.0.0>
 
 * Auditory and Visual Oddball EEG-fMRI
 
-  https://openneuro.org/datasets/ds000116/versions/00003
+  <https://openneuro.org/datasets/ds000116/versions/00003>
 
 * Auditory localization with 7T fMRI
 
-  https://openneuro.org/datasets/ds001942/versions/1.2.0
-
+  <https://openneuro.org/datasets/ds001942/versions/1.2.0>
 
 <!-- ### Deliverables
 
