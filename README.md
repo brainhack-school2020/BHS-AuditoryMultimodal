@@ -62,6 +62,34 @@ Possible existing potencial datasets can be:
   * Avital Sternin; Sebastian Stober; Jessica A. Grahn & Adrian M. Owen. Tempo Estimation from the EEG Signal during Perception and Imagination of Music. In: 1st International Workshop on Brain-Computer Music Interfacing / 11th International Symposium on Computer Music Multidisciplinary Research (BCMI/CMMR’15), 2015.
   available from: http://bib.sebastianstober.de/bcmi2015.pdf
 
+* Dataset: rsfMRI before and after one session EEG NF vs Sham NF
+
+  https://openneuro.org/datasets/ds001408/versions/1.0.3
+
+* Data relating "Alpha/beta power decreases track the fidelity of stimulus-specific information"
+
+  https://openneuro.org/datasets/ds002000/versions/1.0.0
+
+* Real-time EEG feedback on alpha power lateralization leads to behavioral improvements in a covert attention task
+
+  https://openneuro.org/datasets/ds002034/versions/1.0.1
+
+* EEG meditation study
+
+  https://openneuro.org/datasets/ds001787/versions/1.0.2
+
+* EEG study of the attentional blink; before, during, and after transcranial Direct Current Stimulation (tDCS)
+
+  https://openneuro.org/datasets/ds001810/versions/1.1.0
+
+* The neural basis of spoken word perception in older adults
+
+  https://openneuro.org/datasets/ds002382/versions/1.0.0
+
+* Audiocue walking study
+
+  https://openneuro.org/datasets/ds001971/versions/1.1.1
+
 * A dataset recorded during development of an affective brain-computer music interface:
 
   * https://openneuro.org/datasets/ds002724/versions/1.0.1
