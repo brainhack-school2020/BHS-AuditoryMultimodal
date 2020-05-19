@@ -1,8 +1,4 @@
-[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
-
-# A template for project reports at BrainHack School
-
-Team contributors: Brainhack School
+# Combine EEG/MRI/Behavioral data-sets to learn more about Music/Auditory system.
 
 ![BrainHack School](bhs2020.png)
 
@@ -11,6 +7,8 @@ Team contributors: Brainhack School
 In this project I aim to combine data from different modalities (fMRI, EEG, and behavioral) to understand more about sound and music processing.
 
 I was not able yet to acquire any data myself, but there are some open data-sets out there where I want to start working on.
+
+Would like to work with other people! Please feel free to contact :)
 
 <!-- Each project repository should have a markdown file explaining the background and objectives of the project, as well as a summary of the results, and links to the different deliverables of the project. Project reports are incorporated in the BrainHack School (BHS) [website](https://school.brainhackmtl.org/project). Note that the project summary also involves a number of key words. Those are listed on top of the [GitHub repository](https://github.com/brainhack-school2020/project_template), click `manage topics`. -->
 
