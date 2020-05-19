@@ -44,6 +44,9 @@ Possible existing potencial datasets can be:
 
   https://openneuro.org/datasets/ds001928/versions/1.1.0
 
+* OpenMIIR - Music imagery information retrieval
+  https://github.com/sstober/openmiir
+
 * A dataset recorded during development of an affective brain-computer music interface:
 
   * https://openneuro.org/datasets/ds002724/versions/1.0.1
