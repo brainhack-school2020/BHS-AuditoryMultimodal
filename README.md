@@ -24,25 +24,41 @@ The project will rely on the following technologies:
 
 ### Data
 
-Possible existing potencial datasets can be:
+Possible existing potential datasets can be:
 
-* Forrest Gump: (Maybe the most promissing example)
+* Forrest Gump: (Maybe the most promising example)
 
   <https://openneuro.org/datasets/ds000113/versions/1.3.0>
 
 * A dataset recording joint EEG-fMRI during affective music listening (Could be very noisy EEG but also promising).
 
-  <https://openneuro.org/datasets/ds002725/versions/1.0.0> 
+  <https://openneuro.org/datasets/ds002725/versions/1.0.0>
 
-  * Article https://www.nature.com/articles/s41598-019-45105-2.pdf  
+  * Article <https://www.nature.com/articles/s41598-019-45105-2.pdf>  
 
 * Decoding Musical Training from Dynamic Processing of Musical Features in the Brain (Interesting if we can find the data).
 
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768727/>
 
-* Functional Connectivity of Music-Induced Analgesia in Fibromyalgia 
+* Functional Connectivity of Music-Induced Analgesia in Fibromyalgia
 
   <https://openneuro.org/datasets/ds001928/versions/1.1.0>
+
+* DEAP: A Database for Emotion Analysis Using Physiological Signals
+
+  <http://www.eecs.qmul.ac.uk/mmv/datasets/deap/>
+
+* Go-nogo categorization and detection task
+
+  <https://openneuro.org/datasets/ds002680/versions/1.0.0>
+
+* TUH EEG Corpus
+
+  <https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml>
+
+* Music BCI (006-2015)
+  <http://bnci-horizon-2020.eu/database/data-sets>
+  <http://doc.ml.tu-berlin.de/bbci/BNCIHorizon2020-MusicBCI/BNCI_MusicBCI.pdf>
 
 * OpenMIIR - Music imagery information retrieval
   <https://github.com/sstober/openmiir>
@@ -102,7 +118,7 @@ Possible existing potencial datasets can be:
 
 * An EEG dataset recorded during affective music listening
 
-  https://openneuro.org/datasets/ds002721/versions/1.0.1
+  <https://openneuro.org/datasets/ds002721/versions/1.0.1>
 
 * Sherlock_Merlin
 
@@ -120,7 +136,7 @@ Possible existing potencial datasets can be:
 
   <https://openneuro.org/datasets/ds002598/versions/1.0.0>
 
-* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression 
+* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression
 
   <https://openneuro.org/datasets/ds000171/versions/00001>
 
@@ -174,7 +190,7 @@ There is not yet a project gallery, as BHS 2020 is the first edition that will i
 
 The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years. -->
 
-## Other info (TO BE DELETED)
+<!-- ## Other info (TO BE DELETED)
 ##### ECG pupilometry pipeline by Marce Kauffmann 
 
 The repository of this project can be found [here](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann). The objective was to create a processing pipeline for ECG and pupillometry data. The motivation behind this task is that Marcel's lab (MIST Lab @ Polytechnique Montreal) was conducting a Human-Robot-Interaction user study. The repo features:
@@ -190,4 +206,4 @@ Here are other good examples of repositories:
 - [Run multivariate anaylysis to relate behavioral and electropyhysiological data](https://github.com/mtl-brainhack-school-2019/PLS_PV_Behaviour) by Mike
 - [PET pipeline automation and structural MRI exploration](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET) by Rebekah Wickens
 - [Working with PSG [EEG] data from Parkinson's patients](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients) by Cryomatrix
-- [Exploring Brain Functional Activation in Adolescents Who Attempted Suicide](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) by Anthony Gifuni
+- [Exploring Brain Functional Activation in Adolescents Who Attempted Suicide](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) by Anthony Gifuni -->
