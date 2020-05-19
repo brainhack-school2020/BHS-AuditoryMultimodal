@@ -28,38 +28,66 @@ The project will rely on the following technologies:
 
 Possible existing potencial datasets can be:
 
-* (Maybe the most promissing example) https://openneuro.org/datasets/ds000113/versions/1.3.0
+* Forrest Gump: (Maybe the most promissing example)
 
-* (Could be very noisy EEG but also promising) https://openneuro.org/datasets/ds002725/versions/1.0.0 
-    * Article https://www.nature.com/articles/s41598-019-45105-2.pdf  
+  https://openneuro.org/datasets/ds000113/versions/1.3.0
 
-* (Interesting if we can find the data) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768727/
+* A dataset recording joint EEG-fMRI during affective music listening (Could be very noisy EEG but also promising).
 
-* https://openneuro.org/datasets/ds001928/versions/1.1.0
+  https://openneuro.org/datasets/ds002725/versions/1.0.0 
 
-* https://openneuro.org/datasets/ds002724/versions/1.0.1
+  * Article https://www.nature.com/articles/s41598-019-45105-2.pdf  
 
-* https://openneuro.org/datasets/ds002722/versions/1.0.1
+* Decoding Musical Training from Dynamic Processing of Musical Features in the Brain (Interesting if we can find the data).
 
-* https://openneuro.org/datasets/ds002721/versions/1.0.1
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768727/
 
-* https://openneuro.org/datasets/ds001110/versions/00003
+* Functional Connectivity of Music-Induced Analgesia in Fibromyalgia 
 
-* https://openneuro.org/datasets/ds000171/versions/00001
+  https://openneuro.org/datasets/ds001928/versions/1.1.0
 
-* https://openneuro.org/datasets/ds001131/versions/1.0.0
+* A dataset recorded during development of an affective brain-computer music interface:
 
-* https://openneuro.org/datasets/ds002723/versions/1.1.0
+  * https://openneuro.org/datasets/ds002724/versions/1.0.1
 
-* https://openneuro.org/datasets/ds002598/versions/1.0.0
+  * https://openneuro.org/datasets/ds002722/versions/1.0.1
 
-* https://openneuro.org/datasets/ds000171/versions/00001
+  * https://openneuro.org/datasets/ds001131/versions/1.0.0
 
-* https://openneuro.org/datasets/ds002218/versions/2.0.0
+  * https://openneuro.org/datasets/ds002723/versions/1.1.0
+* An EEG dataset recorded during affective music listening
 
-* https://openneuro.org/datasets/ds000116/versions/00003
+  https://openneuro.org/datasets/ds002721/versions/1.0.1
 
-* https://openneuro.org/datasets/ds001942/versions/1.2.0
+* Sherlock_Merlin 
+
+  https://openneuro.org/datasets/ds001110/versions/00003
+
+* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression
+
+  https://openneuro.org/datasets/ds000171/versions/00001
+
+* Milky-Vodka
+
+* Audiovisual Learning MEG Dataset 
+
+  https://openneuro.org/datasets/ds002598/versions/1.0.0
+
+* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression 
+
+  https://openneuro.org/datasets/ds000171/versions/00001
+
+* Auditory and Visual Rhythm Omission EEG
+
+  https://openneuro.org/datasets/ds002218/versions/2.0.0
+
+* Auditory and Visual Oddball EEG-fMRI
+
+  https://openneuro.org/datasets/ds000116/versions/00003
+
+* Auditory localization with 7T fMRI
+
+  https://openneuro.org/datasets/ds001942/versions/1.2.0
 
 
 <!-- ### Deliverables
