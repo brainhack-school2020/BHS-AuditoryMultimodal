@@ -62,6 +62,7 @@ Possible existing potential datasets can be:
 
 * OpenMIIR - Music imagery information retrieval
   <https://github.com/sstober/openmiir>
+  <https://academictorrents.com/details/c18c04a9f18ff7d133421012978c4a92f57f6b9c>
   Existing Publications:
   * Sebastian Stober. Towards Studying Music Cognition with Information Retrieval Techniques: Lessons Learned from the OpenMIIR Initiative. In: Frontiers in Psychology Volume 8, 2017.
   doi: 10.3389/fpsyg.2017.01255
@@ -151,6 +152,10 @@ Possible existing potential datasets can be:
 * Auditory localization with 7T fMRI
 
   <https://openneuro.org/datasets/ds001942/versions/1.2.0>
+
+* FFR idea to work on our data. 
+
+  <https://www-jneurosci-org.proxy3.library.mcgill.ca/content/37/4/830>
 
 <!-- ### Deliverables
 
