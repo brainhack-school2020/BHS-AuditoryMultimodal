@@ -44,13 +44,24 @@ Possible existing potential datasets can be:
 
   <https://openneuro.org/datasets/ds001928/versions/1.1.0>
 
-* DEAP: A Database for Emotion Analysis Using Physiological Signals
+* DEAP: A Database for Emotion Analysis Using Physiological Signals:
+  (Not Accessible without explicit permission, which we are missing for no)
 
   <http://www.eecs.qmul.ac.uk/mmv/datasets/deap/>
 
 * Go-nogo categorization and detection task
 
   <https://openneuro.org/datasets/ds002680/versions/1.0.0>
+
+* Neuroimaging predictors of creativity in healthy adults
+  
+  <https://openneuro.org/datasets/ds002330/versions/1.1.0>
+
+* A multi-modal human neuroimaging dataset for data integration: simultaneous EEG and MRI acquisition during a motor imagery neurofeedback task
+
+  <https://openneuro.org/datasets/ds002336/versions/2.0.0>
+
+  <https://openneuro.org/datasets/ds002338/versions/2.0.0>  
 
 * TUH EEG Corpus
 
@@ -102,6 +113,10 @@ Possible existing potential datasets can be:
 * The neural basis of spoken word perception in older adults
 
   <https://openneuro.org/datasets/ds002382/versions/1.0.0>
+
+* Simultaneous EEG-fMRI - Confidence in perceptual decisions
+
+  <https://openneuro.org/datasets/ds002739/versions/1.0.0>
 
 * Audiocue walking study
 
