@@ -1,6 +1,8 @@
 # Combine EEG/MRI/Behavioral data-sets to learn more about Music/Auditory system
 
-![BrainHack School](bhs2020.png)
+![SEff](selection_effect.png)
+
+<!-- ![Mri](fmri.png ) -->
 
 ## Summary
 
