@@ -18,7 +18,12 @@ The overall goal of the current project is to be able to organize, pre-process a
 
 ### Background
 
-TODO
+In my current PhD project one of the end results should be a open multimodal behavioural and neuroimaging dataset characterizing healthy human auditory processing.
+It aims to allow researchers address individual differences in auditory cognitive skills across brain functions and structures, and it will serve as a baseline for comparison with clinical populations.
+To achieve that, our core objectives are to create a standardized framework with which to administer a battery of curated tasks.
+After acquiring the data from 70 young adults and we intend to share our framework, analysis pipelines, stimuli with linked descriptors, and metadata with the community through open data repositories. The dataset contains cognitive and psychophysical tasks, as well as questionnaires designed to assess musical abilities, speech, and general auditory perception. It also includes EEG and fMRI recorded during resting state, as well as naturalistic listening to musical stimuli and speech.
+
+During this BrainHanks School project I wanted to understand what are the needs as a researcher to easily make use of public available data and learn the basics of pre-processing raw fMRI data.
 
 ### Tools
 
@@ -39,6 +44,8 @@ The project will rely on the following technologies:
 * pathlib
 
 * jupiter lab
+
+* [OpenNeuro](https://openneuro.org/)
 
 ### Data
 
@@ -301,13 +308,13 @@ I was a little frustrated with the process, making me realize how important is r
 
 At the end of this project, we will have:
 
-* Scripts to download the dataset.
+* Scripts to download the dataset ([HERE](/scripts/download-for-test.sh) and [HERE](/scripts/download-for-all.sh)).
 
-* Scrips to pre-process the data using fmriprep in a cluster.
+* Scrips to pre-process the data using fmriprep in a cluster ([HERE](/scripts/run-fmriprep-test.sh) and [HERE](/scripts/run-fmriprep-all.sh)).
 
-* fmriprep report on the pre-processing.
+* fmriprep report on the pre-processing ([HERE](fmri-prep-results/sub-control01.html)).
 
-* Basic processing of 1 subject.
+* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)).
 
 ### Project plan / Objectives
 
