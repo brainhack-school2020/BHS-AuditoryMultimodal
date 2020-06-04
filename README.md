@@ -8,11 +8,11 @@
 
 I'm currently a PhD student of the IPN at McGill University.
 
-~~In this project I aim to combine data from different modalities (fMRI, EEG, and behavioral) to understand more about sound and music processing.~~
+In this project I aim to combine data from different modalities (fMRI, EEG, and behavioral) to understand more about sound and music processing.
 
 My main focus in this project was to try to reproduce some of the results from a published paper starting form raw data.
 
-The overall goal of the current project is to be able to organize, pre-process and do some basic analyses form a fMRI study
+The overall goal of the current project is to be able to organize, pre-process and do some basic analyses form a fMRI study.
 
 ## Project definition
 
@@ -297,7 +297,6 @@ I was a little frustrated with the process, making me realize how important is r
   
   (Not Accessible without explicit permission, which we are missing for no)
 
-
 ### Deliverables
 
 At the end of this project, we will have:
@@ -310,8 +309,43 @@ At the end of this project, we will have:
 
 * Basic processing of 1 subject.
 
-## Results
+### Project plan / Objectives
 
+* [x] Download multiple interesting datasets (local and to the server)
+
+  * [x] fMRI studyforrest <https://openneuro.org/datasets/ds000113/versions/1.3.0>
+
+  * [x] fMRI Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression <https://openneuro.org/datasets/ds000171/versions/00001>
+
+  * [x] EEG <https://openneuro.org/datasets/ds002721/versions/1.0.1>
+
+  * [x] EEG-fMRI <https://openneuro.org/datasets/ds002725/versions/1.0.0>
+
+* [x] Explore fMRI datasets
+
+* [ ] ~~Explore EEG datasets~~ (Not enough time)
+
+* [ ] Replicate results for each dataset.
+
+  * [x] ~~fMRI <https://openneuro.org/datasets/ds000113/versions/1.3.0>~~ (data need pre-processing and the dataset was not fully BIDS compatible)
+
+  * [x] fMRI <https://openneuro.org/datasets/ds000171/versions/00001>
+
+    * [x] Preprocess data.
+
+    * [X] Do some basic visualizations.
+
+    * [ ] Do connectivity and activation analysis mus / no mus stimuli (IN Progress)
+
+    * [ ] ~~Reproduce figures from the paper~~ (Not enough time)
+
+  * [ ] ~~EEG <https://openneuro.org/datasets/ds002721/versions/1.0.1>~~ (Not enough time)
+
+  * [ ] ~~EEG-fMRI <https://openneuro.org/datasets/ds002725/versions/1.0.0>~~ (Not enough time)
+
+* [ ] ~~Extract commune information from the different datasets~~ (Not enough time)
+
+* [ ] ~~Analyse data coming from the different datasets together~~ (Not enough time)
 
 ## Conclusion and acknowledgement
 
