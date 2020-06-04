@@ -314,7 +314,7 @@ At the end of this project, we will have:
 
 * fmriprep report on the pre-processing ([HERE](fmri-prep-results/sub-control01.html)).
 
-* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)).
+* Basic processing of 1 subject ([HERE](http://htmlpreview.github.io/?https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/fmri-prep-results/sub-control01.html)).
 
 ### Project plan / Objectives
 
