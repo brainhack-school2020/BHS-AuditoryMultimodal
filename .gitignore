@@ -2,3 +2,13 @@
 *.code-workspace
 
 .vscode/
+
+local/
+
+outdata/
+
+outdata-non-compress/
+
+.ipynb_checkpoints/
+
+nilearn_cache/
