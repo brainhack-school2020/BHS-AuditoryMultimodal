@@ -44,23 +44,25 @@ The project will rely on the following technologies:
 
 The first step was to search for candidates open datasets. I prioritized music/auditory related, as it is closer to my PhD project.
 
-<!-- I was not able yet to acquire any data myself, but there are some open data-sets out there where I want to start working on. -->
-
-Possible existing potential datasets can be:
+Next there is a list of interesting datasets I found, which I choose 2 to work during this course:
 
 #### Chosen
 
+* Forrest Gump: A very interesting study that use naturalistic stimuli to understand more about how our brain interacts with the real complex world. More information in the dedicated [web-side](http://studyforrest.org/). Here you can find the [list of 29 publications](http://studyforrest.org/publications.html) that use the data made publicly available.
 
-TODO: Add descriptions and papers.
+  I was particularly interested in the first 20 subjects that perform a music task (Listening to music (7T fMRI, cardiac & respiratory trace).
 
-* Forrest Gump:
+  I wanted to replicate the analyisis and findings of [this paper](https://f1000research.com/articles/4-174/v1).
   
   | N      | Type      | Tasks    | Comments |
   |--------|-----------|----------|----------|
   | 37     |     bold, T1w, T2w, angio, dwi, fieldmap      |   Forrest Gump, objectcategories, movielocalizer, retmapccw, retmapcon, retmapexp, movie, retmapclw, coverage, orientation, auditory perception        |    Maybe the most promising example     |
 
   <https://openneuro.org/datasets/ds000113/versions/1.3.0>
-* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression
+
+* Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression: Study looking how people with depression process differently musical stimuli.
+
+  Same idea as the previous study, replicate results reported in [this paper](https://pubmed.ncbi.nlm.nih.gov/27284693/) using the publicly available data.
 
   | N      | Type      | Tasks | Comments |
   |--------|-----------|----------|----------|
@@ -283,24 +285,30 @@ TODO: Add descriptions and papers.
 
 #### NOT Accessible
 
+I also find some very interesting datsets that I was not able to access directly and in the period of 3 weeks I was still waiting for them.
+
+I was a little frustrated with the process, making me realize how important is real Open Data.
+
 * DEAP: A Database for Emotion Analysis Using Physiological Signals:
+  
+  website: [https://www.eecs.qmul.ac.uk/mmv/datasets/deap/]
+
+  paper: [https://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf]
+  
   (Not Accessible without explicit permission, which we are missing for no)
 
-  | N      | Type      | Tasks | Comments |
-  |--------|-----------|----------|----------|
-  |     |           |         |    Not Accessible without explicit permission, which we are missing for now    |
 
 ### Deliverables
 
 At the end of this project, we will have:
 
-* Scripts to download the dataset
+* Scripts to download the dataset.
 
-* Scrips to pre-process the data using fmriprep in a cluster
+* Scrips to pre-process the data using fmriprep in a cluster.
 
-* Basic processing of 1 subject including.
-  
-  *  asdf
+* fmriprep report on the pre-processing.
+
+* Basic processing of 1 subject.
 
 ## Results
 
