@@ -314,9 +314,9 @@ At the end of this project, we will have:
 
 * Scrips to pre-process the data using fmriprep in a cluster ([HERE](/scripts/run-fmriprep-test.sh) and [HERE](/scripts/run-fmriprep-all.sh)).
 
-* fmriprep report on the pre-processing ([HERE](fmri-prep-results/sub-control01.html)).
+* fmriprep report on the pre-processing ([HERE](http://htmlpreview.github.io/?https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/fmri-prep-results/sub-control01.html)).
 
-* Basic processing of 1 subject ([HERE](http://htmlpreview.github.io/?https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/fmri-prep-results/sub-control01.html)).
+* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)).
 
 ### Project plan / Objectives
 
