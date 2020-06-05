@@ -37,6 +37,8 @@ The project will rely on the following technologies:
 
 * bids
 
+* bids-validator
+
 * nilearn
 
 * numpy
@@ -320,13 +322,13 @@ At the end of this project, we will have:
 
 * [x] Download multiple interesting datasets (local and to the server)
 
-  * [x] fMRI studyforrest <https://openneuro.org/datasets/ds000113/versions/1.3.0>
+  * [x] **fMRI** studyforrest <https://openneuro.org/datasets/ds000113/versions/1.3.0>
 
-  * [x] fMRI Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression <https://openneuro.org/datasets/ds000171/versions/00001>
+  * [x] **fMRI** Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression <https://openneuro.org/datasets/ds000171/versions/00001>
 
-  * [x] EEG <https://openneuro.org/datasets/ds002721/versions/1.0.1>
+  * [x] **EEG** An EEG dataset recorded during affective music listening <https://openneuro.org/datasets/ds002721/versions/1.0.1>
 
-  * [x] EEG-fMRI <https://openneuro.org/datasets/ds002725/versions/1.0.0>
+  * [x] **EEG-fMRI** A dataset recording joint EEG-fMRI during affective music listening <https://openneuro.org/datasets/ds002725/versions/1.0.0>
 
 * [x] Explore fMRI datasets
 
@@ -353,6 +355,10 @@ At the end of this project, we will have:
 * [ ] ~~Extract commune information from the different datasets~~ (Not enough time)
 
 * [ ] ~~Analyse data coming from the different datasets together~~ (Not enough time)
+
+* [ ] Proper code documentation and add necessary comments
+
+* [ ] Create and share conda env.
 
 ## Conclusion and acknowledgement
 
