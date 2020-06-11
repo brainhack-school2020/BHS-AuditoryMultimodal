@@ -25,6 +25,23 @@ After acquiring the data from 70 young adults and we intend to share our framewo
 
 During this BrainHanks School project I wanted to understand what are the needs as a researcher to easily make use of public available data and learn the basics of pre-processing raw fMRI data.
 
+### Learning Goals
+
+I have good experience analyzing highly process data... but how you get there?
+
+* Raw data → BIDS formatted raw data
+
+* BIDS formatted raw data → BIDS formatted preprocess data
+
+* Basic Data quality control
+
+* Basic analysis
+
+* Implement other people analysis and reproduce results
+
+(but it is a 2 and a half week project...)
+![Estimating Time](https://imgs.xkcd.com/comics/estimating_time.png)
+
 ### Tools
 
 The project will rely on the following technologies:
@@ -308,7 +325,7 @@ I was a little frustrated with the process, making me realize how important is r
 
 ### Deliverables
 
-At the end of this project, we will have:
+At the end of this project, we have:
 
 * Scripts to download the dataset ([HERE](/scripts/download-for-test.sh) and [HERE](/scripts/download-for-all.sh)).
 
@@ -316,7 +333,7 @@ At the end of this project, we will have:
 
 * fmriprep report on the pre-processing ([HERE](http://htmlpreview.github.io/?https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/fmri-prep-results/sub-control01.html)).
 
-* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)).
+* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)) with some need to be improve analysis.
 
 ### Project plan / Objectives
 
@@ -334,7 +351,7 @@ At the end of this project, we will have:
 
 * [ ] ~~Explore EEG datasets~~ (Not enough time)
 
-* [ ] Replicate results for each dataset.
+* [ ] ~~Replicate results for each dataset.~~ (Not enough time)
 
   * [x] ~~fMRI <https://openneuro.org/datasets/ds000113/versions/1.3.0>~~ (data need pre-processing and the dataset was not fully BIDS compatible)
 
@@ -344,7 +361,7 @@ At the end of this project, we will have:
 
     * [X] Do some basic visualizations.
 
-    * [ ] Do connectivity and activation analysis mus / no mus stimuli (IN Progress)
+    * [ ] Do connectivity and activation analysis mus/no-mus stimuli (IN Progress)
 
     * [ ] ~~Reproduce figures from the paper~~ (Not enough time)
 
@@ -356,10 +373,14 @@ At the end of this project, we will have:
 
 * [ ] ~~Analyse data coming from the different datasets together~~ (Not enough time)
 
-* [ ] Proper code documentation and add necessary comments
+* [x] Proper code documentation and add necessary comments
 
-* [ ] Create and share conda env.
+* [x] Create and share conda env.
 
 ## Conclusion and acknowledgement
 
 After the multiple problems I found trying to process the data, reproduce the analyses, and limitations imposed by the missing of information form the dataset I am more aware of what I will need to do to efficiency share my data/analyses in the near future.
+
+Don't be that researcher...
+
+![ML](https://imgs.xkcd.com/comics/machine_learning.png)
