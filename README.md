@@ -40,6 +40,7 @@ I have good experience analyzing highly process data... but how you get there?
 * Implement other people analysis and reproduce results
 
 (but it is a 2 and a half week project...)
+
 ![Estimating Time](https://imgs.xkcd.com/comics/estimating_time.png)
 
 ### Tools
