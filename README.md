@@ -1,6 +1,6 @@
 # Combine EEG/MRI/Behavioral data-sets to learn more about Music/Auditory system
 
-![SEff](selection_effect.png)
+![SEff](https://imgs.xkcd.com/comics/selection_effect.png)
 
 <!-- ![Mri](fmri.png ) -->
 
@@ -328,13 +328,13 @@ I was a little frustrated with the process, making me realize how important is r
 
 At the end of this project, we have:
 
-* Scripts to download the dataset ([HERE](/scripts/download-for-test.sh) and [HERE](/scripts/download-for-all.sh)).
+* Scripts to download the dataset ([HERE](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/download-for-test.sh) and [HERE](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/download-for-all.sh)).
 
-* Scrips to pre-process the data using fmriprep in a cluster ([HERE](/scripts/run-fmriprep-test.sh) and [HERE](/scripts/run-fmriprep-all.sh)).
+* Scrips to pre-process the data using fmriprep in a cluster ([HERE](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/run-fmriprep-test.sh) and [HERE](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/run-fmriprep-all.sh)).
 
 * fmriprep report on the pre-processing ([HERE](http://htmlpreview.github.io/?https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/fmri-prep-results/sub-control01.html)).
 
-* Basic processing of 1 subject ([HERE](BHS_AuditoryMultimodal-ds000171.ipynb)) with some need to be improve analysis.
+* Basic processing of 1 subject ([HERE](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/BHS_AuditoryMultimodal-ds000171.ipynb)) with some need to be improve analysis.
 
 ### Project plan / Objectives
 
@@ -377,6 +377,25 @@ At the end of this project, we have:
 * [x] Proper code documentation and add necessary comments
 
 * [x] Create and share conda env.
+
+### Installation instructions
+
+1. Clone the repo to your computer:
+
+    `git clone https://github.com/brainhack-school2020/BHS-AuditoryMultimodal.git`
+
+2. Install fMRI prep using [this instructions](https://fmriprep.readthedocs.io/en/stable/installation.html)
+
+3. Preprocess the data using [these scripts](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/) (you can grab a coffee or two... these may take a while).
+
+4. Create a virtual-env
+    `python3 -m venv bhs-auditory`
+
+5. Install requirements
+    `pip install -r requirements.txt`
+
+6. Open the notebook
+    `jupyter lab BHS_AuditoryMultimodal-ds000171.ipynb`
 
 ## Conclusion and acknowledgement
 
