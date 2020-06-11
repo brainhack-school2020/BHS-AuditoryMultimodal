@@ -386,7 +386,7 @@ At the end of this project, we have:
 
 2. Install fMRI prep using [this instructions](https://fmriprep.readthedocs.io/en/stable/installation.html)
 
-3. Preprocess the data using [these scripts](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/) (you can grab a coffee or two... these may take a while).
+3. Download and preprocess the data using [these scripts](https://github.com/brainhack-school2020/BHS-AuditoryMultimodal/blob/master/scripts/) (you can grab a coffee or two... these may take a while).
 
 4. Create a virtual-env
     `python3 -m venv bhs-auditory`
