@@ -137,7 +137,7 @@ Next there is a list of interesting datasets I found, which I choose 2 to work d
 
   | N      | Type      | Tasks | Comments |
   |--------|-----------|----------|----------|
-  | 10    |    eeg       |    oddball 3 music instruments     |  not much to extract maybe      |
+  | 11    |    eeg       |    4 different music styles 3 instruments     |  not much to extract maybe      |
 
   <http://bnci-horizon-2020.eu/database/data-sets>
 
