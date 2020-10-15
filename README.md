@@ -133,8 +133,6 @@ Next there is a list of interesting datasets I found, which I choose 2 to work d
 
   <https://openneuro.org/datasets/ds001928/versions/1.1.0>
 
-  <http://www.eecs.qmul.ac.uk/mmv/datasets/deap/>
-
 * Music BCI (006-2015)
 
   | N      | Type      | Tasks | Comments |
