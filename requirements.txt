@@ -39,7 +39,7 @@ networkx==2.4
 nibabel==3.1.0
 nilearn==0.6.2
 nipype==1.5.0
-notebook==6.1.5
+notebook==6.4.10
 num2words==0.5.10
 numpy==1.18.5
 packaging==20.4
